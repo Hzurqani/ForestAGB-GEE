@@ -1,0 +1,5 @@
+Model,Best_R2,MAE_Mg_ha,RMSE_Mg_ha,Source
+GTB,0.77,22.27,37.78,Zurqani 2025
+RF,0.74,31.34,39.93,Zurqani 2025
+CART,0.68,33.16,39.97,Zurqani 2025
+SVM,0.37,55.17,73.48,Zurqani 2025
